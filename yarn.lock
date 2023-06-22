@@ -3,9 +3,9 @@
 
 
 node-os-utils@^1.3.2:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/node-os-utils/-/node-os-utils-1.3.2.tgz#f7f2a856ffc463658f84bad3e7eacf1fed6518b2"
-  integrity sha512-wUo/q6u77y9+DBaXkn57IDyJlQuN7xP6VU9h6yeIGhKocc9rDQPyc3WmLgX+x5jf4WmbLcEaA3raM05+v5jW3g==
+  version "1.3.7"
+  resolved "https://registry.yarnpkg.com/node-os-utils/-/node-os-utils-1.3.7.tgz#77cc341ae39584e12d3aadf6046fe420ff4c9340"
+  integrity sha512-fvnX9tZbR7WfCG5BAy3yO/nCLyjVWD6MghEq0z5FDfN+ZXpLWNITBdbifxQkQ25ebr16G0N7eRWJisOcMEHG3Q==
 
 os-utils@^0.0.14:
   version "0.0.14"
