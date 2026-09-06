@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-node-os-utils@^1.3.2:
-  version "1.3.2"
-  resolved "https://registry.yarnpkg.com/node-os-utils/-/node-os-utils-1.3.2.tgz#f7f2a856ffc463658f84bad3e7eacf1fed6518b2"
-  integrity sha512-wUo/q6u77y9+DBaXkn57IDyJlQuN7xP6VU9h6yeIGhKocc9rDQPyc3WmLgX+x5jf4WmbLcEaA3raM05+v5jW3g==
+node-os-utils@^2.0.0:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/node-os-utils/-/node-os-utils-2.0.5.tgz#69b7672e7e006364c9bdc865c6c0c814540fe31c"
+  integrity sha512-YW+lcCnWhPhYMIhkR2drwphQuNdK7KTxsOyywoiZ1qh/2KKaip2/ts9W7D57opg4LFgQp/kVTAIgWuGiI41WkA==
 
 os-utils@^0.0.14:
   version "0.0.14"
